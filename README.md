@@ -1,4 +1,4 @@
-# Tesco Add to Basket
+# Tesco Selenium - Add to Basket
 Adds a list of items to your Tesco shopping basket in Python. This is whilst we wait for Tesco to produce an API capable of this. 
 
 1. Install the 'Selenium' library in Python.
